@@ -1,8 +1,8 @@
-body{
-    background-color: aquamarine;
+h1 {
+    text-align: center;
 }
-img{
-    width: 200px;
-    height: 300px;
-    border-radius: 50px ;
+
+body {
+    background-color: rgba(196, 251, 255, 0.925);
+    font-weight: 200;
 }
